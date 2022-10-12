@@ -1,0 +1,67 @@
+.game-card {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
+
+
+#btnLess {
+    height: 150px;
+    background-color: blueviolet;
+    border-radius: 10px;
+    transition-duration: 0.3s;
+}
+
+#btnLess:hover {
+    border-radius: 13px;
+    background-color: #750584; 
+    box-shadow: -20px 12px 25px 20px rgba(0,0,0,0.24), 0 17px 0 0 rgba(176, 244, 4, 0.19);
+    
+}
+
+#btnOver {
+   
+    background-color: orange;
+    border-radius: 10px;
+    transition-duration: 0.3s;
+    
+
+}
+
+#btnOver:hover {
+    border-radius: 13px;
+    background-color: #eada2b;
+    box-shadow: 20px 12px 25px 20px rgba(0,0,0,0.24), 0 17px 0 0 rgba(176, 244, 4, 0.19);
+     
+    
+}
+
+#btnEqual {
+    border-radius: 10px;
+    transition-duration: 0.2s;
+} 
+
+#btnEqual:hover {
+    border-radius: 13px;
+    background-color: #0fbd72; 
+    box-shadow: 0 12px 25px 20px rgba(0,0,0,0.24), 0 17px 0 0 rgba(176, 244, 4, 0.19);
+    
+}
+
+#btnRetry {
+    border-radius: 10px;
+    width: 200px;
+    background-color: rgb(28, 155, 234);
+    transition-duration: 0.2s;
+    
+}
+
+
+
+#btnRetry:hover {
+    border-radius: 13px;
+    background-color: #073ef2; 
+    box-shadow: 0 12px 25px 20px rgba(0,0,0,0.24), 0 17px 0 0 rgba(176, 244, 4, 0.19);
+    
+    
+    
+}
